@@ -1,0 +1,9 @@
+agno
+openai
+python-dotenv
+pypdf
+groq
+google-genai
+ddgs
+gunicorn
+Flask
