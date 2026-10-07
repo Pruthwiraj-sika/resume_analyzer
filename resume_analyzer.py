@@ -2,7 +2,6 @@ from agno.agent import Agent
 from agno.models.openai import OpenAIChat
 from agno.models.google import Gemini
 from pypdf import PdfReader
-from agno.models.ollama import Ollama
 from flask import Flask,request,render_template
 from dotenv import load_dotenv
 load_dotenv()
